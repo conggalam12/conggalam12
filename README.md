@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tiến Công</h1>
 <h3 align="center">Artificial Intelligence student at FPT University</h3>
-
+<img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=conggalam12&label=Profile%20views&color=0e75b6&style=flat-square" alt="conggalam12" /> </p>
-https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif
 - 💬 Other Name : **Mach Nha**
 
 <h3 align="left">Connect with me:</h3>
