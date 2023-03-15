@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=conggalam12&label=Profile%20views&color=0e75b6&style=flat-square" alt="conggalam12" /> </p>
-- 💬 Other Name : **Mach Nha**
+- 💬 Other Name : Mach Nha ( Lee Dong Suk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
