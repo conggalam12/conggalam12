@@ -1,4 +1,4 @@
-[![MasterHead](https://2.bp.blogspot.com/-hMCRArrwG-I/W_4nXbo7AiI/AAAAAAAAYMQ/iiJOwg2EOREnEKaeXDeuw5S94-c3SngugCLcBGAs/s1600/funny-christmas-gifs.gif)](https://github.com/conggalam12)
+
 <h1 align="center">Hi 👋, I'm Tiến Công</h1>
 <h3 align="center">Artificial Intelligence student at FPT University</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=conggalam12" alt="conggalam12" /></a> </p>
