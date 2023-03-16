@@ -4,6 +4,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=conggalam12" alt="conggalam12" /></a> </p>
 
 - 💬 Other Name : Mach Nha(Lee Dong Suk)
+- 👌 Motto: Everything in life has a reason, even separation
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
