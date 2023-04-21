@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=conggalam12" alt="conggalam12" /></a> </p>
 
-- 💬 Other Name : Mach Nha ( LEE DONG SUK )
+- 💬 Other Name : LEE DONG SUK
 - 🙂 Everything in life has a reason
 
 <h3 align="left">Connect with me:</h3>
