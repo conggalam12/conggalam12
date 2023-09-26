@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tiến Công</h1>
 <h3 align="center">Artificial Intelligence student at FPT University</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=conggalam12" alt="conggalam12" /></a> </p>
-
 - 💬 Other Name : LEE DONG SUK
 - 🙂 Everything in life has a reason
 
