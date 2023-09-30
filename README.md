@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tiến Công</h1>
-<h3 align="center">Artificial Intelligence student at FPT University</h3>
+<h3 align="center">Artificial Intelligence and Data Science student at FPT University</h3>
 
-- 💬 Other Name : LEE DONG SUK
+- 💬 Other Name : Suk
 - 🙂 Everything in life has a reason
 
 <h3 align="left">Connect with me:</h3>
