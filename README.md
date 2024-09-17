@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tiến Công</h1>
-<h3 align="center">Artificial Intelligence and Data Science student at FPT University</h3>
+<h3 align="center">Math and AI</h3>
 
 - 💬 Other Name : Suk
 - 🙂 Everything in life has a reason
