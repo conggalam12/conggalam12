@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Tiến Công</h1>
-<h3 align="center">Math and AI</h3>
+<h1 align="center">Hi 👋, I'm Tien Công</h1>
+<h3 align="center">I am an AI Engineer and Data scientist</h3>
 
-- 💬 Other Name : Suk
-- 🙂 Everything in life has a reason
+- 💬 My domain : Computervision , NLP 
+- 🙂 I am a student at FPT University
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
