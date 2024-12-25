@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tien Công</h1>
 <h3 align="center">I am an AI Engineer and Data scientist</h3>
 
-- 💬 My domain : Computervision , NLP 
-- 🙂 I am a student at FPT University
+- 💬 My domain : Computer Vision 
+- 🙂 I am a student at FPT University and I just graduated in August 2024
+- 💬 Now , I am an AI Engineer at Accton Technology , Viet Nam
 
 
 <h3 align="left">Connect with me:</h3>
