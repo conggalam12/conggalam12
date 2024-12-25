@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tien Công</h1>
+<h1 align="center">Hi 👋, I'm Tien Cong</h1>
 <h3 align="center">I am an AI Engineer and Data scientist</h3>
 
 - 💬 My domain : Computer Vision 
