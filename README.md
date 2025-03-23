@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tien Cong</h1>
 <h3 align="center">I am an AI Engineer and Data scientist</h3>
 
-- 💬 My domain : Computer Vision 
+- 💬 My domain: Computer Vision and LLM
 - 🙂 I am a student at FPT University and I just graduated in August 2024
-- 💬 Now , I am an AI Engineer at Accton Technology , Viet Nam 
+- 💬 Now, I am an AI Engineer at Accton Technology, Viet Nam 
 
 
 <h3 align="left">Connect with me:</h3>
