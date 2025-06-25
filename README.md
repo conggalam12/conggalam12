@@ -3,7 +3,7 @@
 
 - 💬 My domain: Computer Vision and LLM
 - 🙂 I am a student at FPT University and I just graduated in August 2024
-- 💬 Now, I am an AI Engineer at VNPT Technology Technology, Viet Nam 
+- 💬 Now, I am an AI Engineer at Accton Technology, Viet Nam 
 
 
 <h3 align="left">Connect with me:</h3>
